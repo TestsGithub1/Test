@@ -2,6 +2,7 @@
 using namespace std;
 class Matrix
 {
+	//Это непонятая строка со второго аккаунта
 public:
 //Это непонятная строка
 	int razm_str;
