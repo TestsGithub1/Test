@@ -3,7 +3,7 @@ using namespace std;
 class Matrix
 {
 public:
-//Это непонятная строка для проверки коммита создателя
+//Это непонятная строка для проверки коммита создателяАААААААААААА
 	int razm_str;
 	int razm_stolb;
 	int** Table;
