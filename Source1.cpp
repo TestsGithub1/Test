@@ -3,6 +3,7 @@ using namespace std;
 class Matrix
 {
 public:
+//Это непонятная строка
 	int razm_str;
 	int razm_stolb;
 	int** Table;
